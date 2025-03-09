@@ -1,5 +1,9 @@
 import './App.css'
 
+type HelloMesage = {
+  msg: string;
+}
+
 function App() {
   return (
     <>
